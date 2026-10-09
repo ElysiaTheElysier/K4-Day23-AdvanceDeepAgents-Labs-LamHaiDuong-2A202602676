@@ -1,0 +1,50 @@
+[
+  {
+    "n": 1,
+    "id": "arxiv_001",
+    "url": "http://arxiv.org/abs/001",
+    "title": "Application of Reinforcement Learning in Enhancing LLMs",
+    "date": "2021-01-01",
+    "source": "arxiv"
+  },
+  {
+    "n": 2,
+    "id": "arxiv_002",
+    "url": "http://arxiv.org/abs/002",
+    "title": "Innovations in Policy Optimization for LLMs",
+    "date": "2021-02-02",
+    "source": "arxiv"
+  },
+  {
+    "n": 3,
+    "id": "hf_search_001",
+    "url": "http://hf-search.com/paper/001",
+    "title": "Gradient Starvation in Off-Policy Learning",
+    "date": "2022-05-05",
+    "source": "hf-search"
+  },
+  {
+    "n": 4,
+    "id": "arxiv_003",
+    "url": "http://arxiv.org/abs/003",
+    "title": "MiMo-V2.6: Scaling RL Compute in LLMs",
+    "date": "2023-04-06",
+    "source": "arxiv"
+  },
+  {
+    "n": 5,
+    "id": "hf_daily_001",
+    "url": "http://hf-daily.com/paper/001",
+    "title": "Adaptive Reasoning Methods in LLMs",
+    "date": "2023-03-03",
+    "source": "hf-daily"
+  },
+  {
+    "n": 6,
+    "id": "hf_daily_002",
+    "url": "http://hf-daily.com/paper/002",
+    "title": "Federated Optimization Frameworks",
+    "date": "2023-03-04",
+    "source": "hf-daily"
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "n": 1,
+    "id": "1803.10122",
+    "url": "https://huggingface.co/papers/1803.10122",
+    "title": "World Models",
+    "date": "2018-03-27",
+    "source": "hf-search"
+  },
+  {
+    "n": 2,
+    "id": "2003.04707",
+    "url": "https://arxiv.org/abs/2003.04707",
+    "title": "Neuro-symbolic Architectures for Context Understanding",
+    "date": "2020-03-09",
+    "source": "arxiv"
+  },
+  {
+    "n": 3,
+    "id": "2406.18043",
+    "url": "https://huggingface.co/papers/2406.18043",
+    "title": "Multimodal foundation world models for generalist embodied agents",
+    "date": "2024-06-26",
+    "source": "hf-search"
+  },
+  {
+    "n": 4,
+    "id": "2610.12461",
+    "url": "https://huggingface.co/papers/2610.12461",
+    "title": "OuroWorld: Bringing Any 3D World Alive as Diverse, Endlessly Looping 3D Cinemagraphs",
+    "date": "2026-10-08",
+    "source": "hf-daily"
+  },
+  {
+    "n": 5,
+    "id": "2309.09777",
+    "url": "https://huggingface.co/papers/2309.09777",
+    "title": "DriveDreamer: Towards Real-world-driven World Models for Autonomous Driving",
+    "date": "2023-09-18",
+    "source": "hf-search"
+  },
+  {
+    "n": 6,
+    "id": "2505.13934",
+    "url": "https://huggingface.co/papers/2505.13934",
+    "title": "RLVR-World: Training World Models with Reinforcement Learning",
+    "date": "2025-05-20",
+    "source": "hf-search"
+  }
+]

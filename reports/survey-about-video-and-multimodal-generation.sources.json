@@ -1,0 +1,74 @@
+[
+  {
+    "n": 1,
+    "id": "2605.03475",
+    "url": "https://arxiv.org/abs/2605.03475",
+    "title": "WorldJen: An End-to-End Multi-Dimensional Benchmark for Generative Video Models",
+    "date": "2026-05-05",
+    "source": "arxiv"
+  },
+  {
+    "n": 2,
+    "id": "2508.00144",
+    "url": "https://arxiv.org/abs/2508.00144",
+    "title": "World Consistency Score: A Unified Metric for Video Generation Quality",
+    "date": "2025-07-31",
+    "source": "arxiv"
+  },
+  {
+    "n": 3,
+    "id": "2608.14043",
+    "url": "https://arxiv.org/abs/2608.14043",
+    "title": "Beyond Text Conditioning: A Systematic Study of MLLM-DiT Fusion for Video Generation",
+    "date": "2026-08-14",
+    "source": "arxiv"
+  },
+  {
+    "n": 4,
+    "id": "2610.05608",
+    "url": "https://huggingface.co/papers/2610.05608",
+    "title": "Kandinsky 6.0 Video",
+    "date": "2026-10-04",
+    "source": "hf-daily"
+  },
+  {
+    "n": 5,
+    "id": "2609.38839",
+    "url": "https://huggingface.co/papers/2609.38839",
+    "title": "FrameMorrow: Future-guided Frame Selection",
+    "date": "2026-09-30",
+    "source": "hf-daily"
+  },
+  {
+    "n": 6,
+    "id": "2610.10429",
+    "url": "https://huggingface.co/papers/2610.10429",
+    "title": "SGF+ (Self Gradient Forcing Plus)",
+    "date": "2026-10-07",
+    "source": "hf-daily"
+  },
+  {
+    "n": 7,
+    "id": "2511.06055",
+    "url": "https://huggingface.co/papers/2511.06055",
+    "title": "Neodragon: Mobile Video Generation using Diffusion Transformer",
+    "date": "2025-11-08",
+    "source": "hf-search"
+  },
+  {
+    "n": 8,
+    "id": "2401.03048",
+    "url": "https://huggingface.co/papers/2401.03048",
+    "title": "Latte: Latent Diffusion Transformer for Video Generation",
+    "date": "2024-01-05",
+    "source": "hf-search"
+  },
+  {
+    "n": 9,
+    "id": "2502.03897",
+    "url": "https://huggingface.co/papers/2502.03897",
+    "title": "UniForm: A Unified Diffusion Transformer for Audio-Video Generation",
+    "date": "2025-02-06",
+    "source": "hf-search"
+  }
+]

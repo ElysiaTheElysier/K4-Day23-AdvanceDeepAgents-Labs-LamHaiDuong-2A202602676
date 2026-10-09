@@ -1,0 +1,66 @@
+[
+  {
+    "n": 1,
+    "id": "2406.11200",
+    "url": "https://huggingface.co/papers/2406.11200",
+    "title": "AvaTaR: Optimizing LLM Agents for Tool Usage via Contrastive Reasoning",
+    "date": "2024-06-17",
+    "source": "hf-search"
+  },
+  {
+    "n": 2,
+    "id": "2503.03258",
+    "url": "https://arxiv.org/abs/2503.03258",
+    "title": "Exploring the Potential of Large Language Models as Predictors in Dynamic Text-Attributed Graphs",
+    "date": "2025-03-05",
+    "source": "arxiv"
+  },
+  {
+    "n": 3,
+    "id": "2610.05608",
+    "url": "https://huggingface.co/papers/2610.05608",
+    "title": "Kandinsky 6.0 Video: Foundation Models for Synchronized Video and Audio Generation",
+    "date": "2026-10-04",
+    "source": "hf-daily"
+  },
+  {
+    "n": 4,
+    "id": "2405.14751",
+    "url": "https://huggingface.co/papers/2405.14751",
+    "title": "AGILE: A Novel Reinforcement Learning Framework of LLM Agents",
+    "date": "2024-05-23",
+    "source": "hf-search"
+  },
+  {
+    "n": 5,
+    "id": "2510.02271",
+    "url": "https://huggingface.co/papers/2510.02271",
+    "title": "InfoMosaic-Bench: Evaluating Multi-Source Information Seeking in Tool-Augmented Agents",
+    "date": "2025-10-02",
+    "source": "hf-search"
+  },
+  {
+    "n": 6,
+    "id": "2401.06201",
+    "url": "https://huggingface.co/papers/2401.06201",
+    "title": "EASYTOOL: Enhancing LLM-based Agents with Concise Tool Instruction",
+    "date": "2024-01-11",
+    "source": "hf-search"
+  },
+  {
+    "n": 7,
+    "id": "2404.04442",
+    "url": "https://huggingface.co/papers/2404.04442",
+    "title": "Exploring Autonomous Agents through the Lens of Large Language Models: A Review",
+    "date": "2024-04-05",
+    "source": "hf-search"
+  },
+  {
+    "n": 8,
+    "id": "2508.07959",
+    "url": "https://arxiv.org/abs/2508.07959",
+    "title": "Large Language Models for Subjective Language Understanding: A Survey",
+    "date": "2025-08-11",
+    "source": "arxiv"
+  }
+]

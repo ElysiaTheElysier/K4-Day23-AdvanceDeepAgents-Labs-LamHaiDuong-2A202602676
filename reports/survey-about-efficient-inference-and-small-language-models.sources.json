@@ -1,0 +1,74 @@
+[
+  {
+    "n": 1,
+    "id": "2211.07715",
+    "url": "https://huggingface.co/papers/2211.07715",
+    "title": "Fast DistilBERT on CPUs",
+    "date": "2022-10-27",
+    "source": "hf-search"
+  },
+  {
+    "n": 2,
+    "id": "2410.12013",
+    "url": "https://huggingface.co/papers/2410.12013",
+    "title": "MoE-Pruner: Pruning Mixture-of-Experts Large Language Model using the Hints from Its Router",
+    "date": "2024-10-15",
+    "source": "hf-search"
+  },
+  {
+    "n": 3,
+    "id": "2410.06270",
+    "url": "https://huggingface.co/papers/2410.06270",
+    "title": "MC-MoE: Mixture Compressor for Mixture-of-Experts LLMs Gains More",
+    "date": "2024-10-08",
+    "source": "hf-search"
+  },
+  {
+    "n": 4,
+    "id": "2609.38169",
+    "url": "https://huggingface.co/papers/2609.38169",
+    "title": "STEPQuant: When and Where Errors Matter in Delta-Rule Recurrent State Quantization",
+    "date": "2026-09-29",
+    "source": "hf-daily"
+  },
+  {
+    "n": 5,
+    "id": "2610.07767",
+    "url": "https://huggingface.co/papers/2610.07767",
+    "title": "TRACE: Rollout-Guided Quantization-Aware Training for FP4 Reinforcement Learning of MoE Language Models",
+    "date": "2026-10-06",
+    "source": "hf-daily"
+  },
+  {
+    "n": 6,
+    "id": "2609.34117",
+    "url": "https://huggingface.co/papers/2609.34117",
+    "title": "SlimWise: Decoupling Expert Pruning Across Prefill and Decode for Efficient MoE Serving",
+    "date": "2026-09-28",
+    "source": "hf-daily"
+  },
+  {
+    "n": 7,
+    "id": "2606.01806",
+    "url": "https://arxiv.org/abs/2606.01806",
+    "title": "ProbeScale: Probing Analysis to Optimize Neural Scaling Laws for Efficient Small Language Model Inference",
+    "date": "2026-06-01",
+    "source": "arxiv"
+  },
+  {
+    "n": 8,
+    "id": "2505.10475",
+    "url": "https://arxiv.org/abs/2505.10475",
+    "title": "Parallel Scaling Law for Language Models",
+    "date": "2025-05-15",
+    "source": "arxiv"
+  },
+  {
+    "n": 9,
+    "id": "2503.12167",
+    "url": "https://arxiv.org/abs/2503.12167",
+    "title": "PLM: Efficient Peripheral Language Models Hardware-Co-Designed for Ubiquitous Computing",
+    "date": "2025-03-15",
+    "source": "arxiv"
+  }
+]
